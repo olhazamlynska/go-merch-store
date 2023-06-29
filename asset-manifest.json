@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/react-router/static/css/main.93f80f61.css",
-    "main.js": "/react-router/static/js/main.183e2c04.js",
-    "static/js/104.ae665c68.chunk.js": "/react-router/static/js/104.ae665c68.chunk.js",
-    "static/js/544.6ee4d8fe.chunk.js": "/react-router/static/js/544.6ee4d8fe.chunk.js",
-    "static/js/483.af105444.chunk.js": "/react-router/static/js/483.af105444.chunk.js",
-    "static/js/385.de313210.chunk.js": "/react-router/static/js/385.de313210.chunk.js",
-    "static/js/609.c17c4527.chunk.js": "/react-router/static/js/609.c17c4527.chunk.js",
-    "static/js/708.e0b9972e.chunk.js": "/react-router/static/js/708.e0b9972e.chunk.js",
-    "static/js/186.77c2454f.chunk.js": "/react-router/static/js/186.77c2454f.chunk.js",
-    "static/js/128.f09c285e.chunk.js": "/react-router/static/js/128.f09c285e.chunk.js",
-    "index.html": "/react-router/index.html",
-    "main.93f80f61.css.map": "/react-router/static/css/main.93f80f61.css.map",
-    "main.183e2c04.js.map": "/react-router/static/js/main.183e2c04.js.map",
-    "104.ae665c68.chunk.js.map": "/react-router/static/js/104.ae665c68.chunk.js.map",
-    "544.6ee4d8fe.chunk.js.map": "/react-router/static/js/544.6ee4d8fe.chunk.js.map",
-    "483.af105444.chunk.js.map": "/react-router/static/js/483.af105444.chunk.js.map",
-    "385.de313210.chunk.js.map": "/react-router/static/js/385.de313210.chunk.js.map",
-    "609.c17c4527.chunk.js.map": "/react-router/static/js/609.c17c4527.chunk.js.map",
-    "708.e0b9972e.chunk.js.map": "/react-router/static/js/708.e0b9972e.chunk.js.map",
-    "186.77c2454f.chunk.js.map": "/react-router/static/js/186.77c2454f.chunk.js.map",
-    "128.f09c285e.chunk.js.map": "/react-router/static/js/128.f09c285e.chunk.js.map"
+    "main.css": "/go-merch-store/static/css/main.93f80f61.css",
+    "main.js": "/go-merch-store/static/js/main.df0b5d5a.js",
+    "static/js/104.23f01285.chunk.js": "/go-merch-store/static/js/104.23f01285.chunk.js",
+    "static/js/544.fbf68d05.chunk.js": "/go-merch-store/static/js/544.fbf68d05.chunk.js",
+    "static/js/483.dcbf4460.chunk.js": "/go-merch-store/static/js/483.dcbf4460.chunk.js",
+    "static/js/385.d60a7c06.chunk.js": "/go-merch-store/static/js/385.d60a7c06.chunk.js",
+    "static/js/609.e51dc9ec.chunk.js": "/go-merch-store/static/js/609.e51dc9ec.chunk.js",
+    "static/js/708.6b4f1b90.chunk.js": "/go-merch-store/static/js/708.6b4f1b90.chunk.js",
+    "static/js/186.bca448ec.chunk.js": "/go-merch-store/static/js/186.bca448ec.chunk.js",
+    "static/js/128.b5ddcef1.chunk.js": "/go-merch-store/static/js/128.b5ddcef1.chunk.js",
+    "index.html": "/go-merch-store/index.html",
+    "main.93f80f61.css.map": "/go-merch-store/static/css/main.93f80f61.css.map",
+    "main.df0b5d5a.js.map": "/go-merch-store/static/js/main.df0b5d5a.js.map",
+    "104.23f01285.chunk.js.map": "/go-merch-store/static/js/104.23f01285.chunk.js.map",
+    "544.fbf68d05.chunk.js.map": "/go-merch-store/static/js/544.fbf68d05.chunk.js.map",
+    "483.dcbf4460.chunk.js.map": "/go-merch-store/static/js/483.dcbf4460.chunk.js.map",
+    "385.d60a7c06.chunk.js.map": "/go-merch-store/static/js/385.d60a7c06.chunk.js.map",
+    "609.e51dc9ec.chunk.js.map": "/go-merch-store/static/js/609.e51dc9ec.chunk.js.map",
+    "708.6b4f1b90.chunk.js.map": "/go-merch-store/static/js/708.6b4f1b90.chunk.js.map",
+    "186.bca448ec.chunk.js.map": "/go-merch-store/static/js/186.bca448ec.chunk.js.map",
+    "128.b5ddcef1.chunk.js.map": "/go-merch-store/static/js/128.b5ddcef1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.93f80f61.css",
-    "static/js/main.183e2c04.js"
+    "static/js/main.df0b5d5a.js"
   ]
 }

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgo_merch_store=self.webpackChunkgo_merch_store||[]).push([[544],{544:function(e,i,t){t.r(i);var s=t(184);i.default=function(){return(0,s.jsxs)("main",{children:[(0,s.jsx)("h1",{children:"Welcome"}),(0,s.jsx)("img",{src:"https://via.placeholder.com/960x240",alt:""}),(0,s.jsx)("p",{children:"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iusto, laboriosam placeat incidunt rem illum animi nemo quibusdam quia voluptatum voluptate."})]})}}}]);
+//# sourceMappingURL=544.fbf68d05.chunk.js.map
