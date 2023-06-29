@@ -1,6 +1,6 @@
-import { BackLink } from 'components/BackLink';
-import { getProductById } from 'fakeAPI';
 import { useLocation, useParams } from 'react-router-dom';
+import { getProductById } from 'services/fakeAPI';
+import BackLink from 'components/BackLink';
 
 const ProductDetails = () => {
   const { id } = useParams();

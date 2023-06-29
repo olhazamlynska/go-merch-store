@@ -1,18 +1,20 @@
 import { lazy } from 'react';
 import { Route, Routes } from 'react-router-dom';
-import { SharedLayout } from './SharedLayout';
+import SharedLayout from 'components/SharedLayout';
 
 //import NotFound from 'path/to/pages/NotFound';
 
-const About = lazy(() => import('../pages/About'));
-const Home = lazy(() => import('../pages/Home'));
-const ProductDetails = lazy(() => import('../pages/ProductDetails'));
-const Products = lazy(() => import('../pages/Products'));
-const Mission = lazy(() => import('./Mission'));
-const Team = lazy(() => import('./Team'));
-const Reviews = lazy(() => import('./Reviews'));
+const About = lazy(() => import('../../pages/About/About'));
+const Home = lazy(() => import('../../pages/Home/Home'));
+const ProductDetails = lazy(() =>
+  import('../../pages/ProductDetails/ProductDetails')
+);
+const Products = lazy(() => import('../../pages/Products/Products'));
+const Mission = lazy(() => import('../Mission/Mission'));
+const Team = lazy(() => import('../Team/Team'));
+const Reviews = lazy(() => import('../Reviews/Reviews'));
 
-export const App = () => {
+const App = () => {
   return (
     <Routes>
       <Route path="/" element={<SharedLayout />}>
@@ -28,3 +30,5 @@ export const App = () => {
     </Routes>
   );
 };
+
+export default App;
