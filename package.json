@@ -1,8 +1,8 @@
 {
-  "name": "react-homework-template",
+  "name": "go-merch-store",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://olhazamlynska.github.io/react-router/",
+  "homepage": "https://olhazamlynska.github.io/go-merch-store/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
